@@ -17,6 +17,8 @@ The CY8CEVAL-062S2-MUR-43439M2 library includes the following:
 * API documentation
 
 ### What Changed?
+#### v4.3.0
+* Update companion device pin configuration to align with requirements of MUR-43439 M2 module.
 #### v4.2.0
 * Updated linker scripts and startup code to align with mtb-pdl-cat1 v3.4.0
 * Added functionality to enable BSP Assistant chip flow
@@ -88,8 +90,8 @@ This version of the CY8CEVAL-062S2-MUR-43439M2 BSP was validated for compatibili
 
 | Software and Tools                        | Version |
 | :---                                      | :----:  |
-| ModusToolbox™ Software Environment        | 3.1.0   |
-| GCC Compiler                              | 12.2.1  |
+| ModusToolbox™ Software Environment        | 3.0.0   |
+| GCC Compiler                              | 11.3.1  |
 | IAR Compiler                              | 9.30.1  |
 | ARM Compiler                              | 6.16    |
 
